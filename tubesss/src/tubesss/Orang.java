@@ -10,5 +10,7 @@ package tubesss;
  * @author ANZYM
  */
 public class Orang {
-    
+    Public Orang () {
+        
+    }
 }
