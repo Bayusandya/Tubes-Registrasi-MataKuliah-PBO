@@ -10,5 +10,7 @@ package tubesss;
  * @author ANZYM
  */
 public class Dosen {
-    
+    Public Dosen () {
+        
+    }
 }
