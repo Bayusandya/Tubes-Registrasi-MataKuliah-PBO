@@ -10,7 +10,16 @@ package tubesss;
  * @author ANZYM
  */
 public class Dosen {
-    Public Dosen () {
-        
+    private String namaDosen;
+    private String idDosen;
+    
+    public void setNama (string nama) {
+        this.nama = nama;
     }
+    
+    public void setID (string id) {
+        this.id = id;
+    }
+    
+    public
 }
