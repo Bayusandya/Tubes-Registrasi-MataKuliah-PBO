@@ -11,6 +11,6 @@ package tubesss;
  */
 public class MataKuliah {
     Public MataKuliah () {
-        xcfgfgfgfgfgf
+       nanana;
     }
 }
